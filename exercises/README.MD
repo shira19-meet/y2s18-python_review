@@ -53,7 +53,7 @@ prime or not.
 
 ### 1.5 Classes Review
 
-**Part 1:** Create a class Superheros, where each
+**Part 1:** Create a  Superheros, where each
 superhero can be initialized with a name (a string),
 a superpower (a string), and their strength (an integer).
 
